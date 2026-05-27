@@ -52,7 +52,7 @@ I utilize C to interface directly with hardware registers, manage memory, and im
 To ensure I am building a versatile and enterprise-ready engineering foundation, I am executing a strict, multi-tiered roadmap. This curriculum bridges localized bare-metal firmware with distributed, multi-threaded architectures.
 
 - [x] **Tier 0: Software Foundations** - Core C mechanics, memory constraints, and pointer arithmetic.
-- [ ] **Tier 1: Bare-Metal Firmware (Current)** - Direct-register peripheral drivers, Independent Watchdogs (IWDG), Flash CRC (Cyclic Redundancy Check), and hardware clock calibration.
+- [X] **Tier 1: Bare-Metal Firmware (Current)** - Direct-register peripheral drivers, Independent Watchdogs (IWDG), Flash CRC (Cyclic Redundancy Check), and hardware clock calibration.
 - [ ] **Tier 2: RTOS & Automated Verification** - Migrating synchronous blocking loops to **FreeRTOS** (Hardware Interrupts, Mutexes, Stack Watermarking) and implementing Unity/Ceedling for automated test-driven development.
 - [ ] **Tier 3: The Linux IoT Gateway** - Networking localized STM32 sensor arrays to heavier Linux environments for distributed system streaming.
 
