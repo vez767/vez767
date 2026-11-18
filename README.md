@@ -1,16 +1,8 @@
 # Hi, I'm Wanaemi Alagoa
 
-### Year 3 Computer Engineering Student | Embedded Systems | Low-Level Architecture 
+### Year 3 Computer Engineering Student | Embedded Systems | Low-Level Architecture
 
-I am a third-year Computer Engineering student fascinated by how software dictates physical action.
-
-Rather than relying on high-level abstractions, I am dedicated to mastering low-level systems architecture. I believe it is the critical foundation that ensures any physical system, regardless of its scale or application, can safely and deterministically execute its core tasks.
-
-I specialize in writing memory-safe and fault-tolerant firmware in C, specifically optimized for ARM architectures to extract maximum performance and reliability from resource-constrained devices.
-
-My engineering philosophy is user-centric: To design robust state machines and hardware-level safe fallbacks that prioritize the end-user's safety, anticipate severe edge cases, and guarantee reliability even when the physical hardware is compromised. To ensure enterprise readiness, I strictly adhere to a traceable, requirement-driven SDLC (Software Development Life Cycle) Git workflow, documenting hardware constraints and architectural intent at every stage.
-
-Currently, I am executing a self-driven curriculum to bridge academic theory with production-grade, safety-critical architecture.
+I am a third-year Computer Engineering student specializing in bare-metal C and FreeRTOS firmware for ARM Cortex-M architectures, focusing on deterministic, low-level silicon control over high-level abstractions. My work centers on fault-tolerant state machines and hardware-level safe fallbacks designed to keep resource-constrained systems reliable even when physical hardware fails. To bridge academic theory with production-grade engineering, I follow a traceable, requirement-driven Git workflow that actively documents hardware constraints and architectural intent.
 
 ---
 
@@ -18,9 +10,10 @@ Currently, I am executing a self-driven curriculum to bridge academic theory wit
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![VHDL](https://img.shields.io/badge/VHDL-543978?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-I utilize C to interface directly with hardware registers, manage memory, and implement fault-tolerant architecture on silicon. I am also proficient in C++ and have foundational experience with Python.
+I utilize C to interface directly with hardware registers, manage memory, and implement fault-tolerant architecture on silicon, alongside VHDL for synchronous FPGA digital logic design. I am also proficient in C++ and have foundational experience with Python.
 
 ---
 
@@ -67,10 +60,5 @@ I utilize C to interface directly with hardware registers, manage memory, and im
 
 ---
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) https://www.linkedin.com/in/wanaemi-alagoa-0711b8327/
-
-
-
-
-
-![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) alagoa.wanaemi.emi@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wanaemi-alagoa-0711b8327/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alagoa.wanaemi.emi@gmail.com)
